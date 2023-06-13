@@ -1,5 +1,5 @@
 import React from 'react'
-import Main from './components/main'
+import Mmain from './components/Mmain'
 import Sidebar from './components/Sidebar'
 import Works from './components/Works'
 import Projects from './components/Projects'
@@ -9,7 +9,7 @@ function App() {
   return (
     <div>
       <Sidebar />
-      <Main />
+      <Mmain />
       <Works />
       <Projects />
       <Contacts />
